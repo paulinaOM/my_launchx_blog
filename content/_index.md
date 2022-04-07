@@ -7,4 +7,21 @@ Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartir�
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-🚀
+🚀 Mis expectativas de aprendizaje para este proyecto son:
+
+<ul>
+<li>Conocer mis herramientas de desarrollo:
+  <ul>
+    <li>Darme a la tarea de conocer mi sistema operativo.</li>
+    <li>Conocer mi editor de texto.</li>
+    <li>Profundizar en el manejo de Git y Github.</li>
+  </ul>
+</li>
+  
+<li>Mejorar mi interacción con herramientas como node JS.</li>
+
+<li>Continuar practicando el desarrollo de APIs.</li>
+
+<li>Aprender de la experiencia de MC Carlo Gilmar.</li>
+
+<li>Continuar desarrollando la perseverancia y constancia para cumplir con los retos que surgen día con día.</li>
