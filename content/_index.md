@@ -11,7 +11,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 - Conocer mis herramientas de desarrollo:
   - Darme a la tarea de conocer mi sistema operativo.
+  
   - Conocer mi editor de texto.
+  
   - Profundizar en el manejo de Git y Github.
   
 - Mejorar mi interacción con herramientas como node JS.
