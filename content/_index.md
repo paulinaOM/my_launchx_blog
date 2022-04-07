@@ -3,25 +3,21 @@ title: Launch X Bitácora de viaje
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hola ✌️  soy el explorer **Paulina Otero** y este es mi blog personal donde compartiré mis aventuras de Launch X.
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀 Mis expectativas de aprendizaje para este proyecto son:
 
-<ul>
-<li>Conocer mis herramientas de desarrollo:
-  <ul>
-    <li>Darme a la tarea de conocer mi sistema operativo.</li>
-    <li>Conocer mi editor de texto.</li>
-    <li>Profundizar en el manejo de Git y Github.</li>
-  </ul>
-</li>
+- Conocer mis herramientas de desarrollo:
+  - Darme a la tarea de conocer mi sistema operativo.
+  - Conocer mi editor de texto.
+  - Profundizar en el manejo de Git y Github.
   
-<li>Mejorar mi interacción con herramientas como node JS.</li>
+- Mejorar mi interacción con herramientas como node JS.
 
-<li>Continuar practicando el desarrollo de APIs.</li>
+- Continuar practicando el desarrollo de APIs.
 
-<li>Aprender de la experiencia de MC Carlo Gilmar.</li>
+- Aprender de la experiencia de MC Carlo Gilmar.
 
-<li>Continuar desarrollando la perseverancia y constancia para cumplir con los retos que surgen día con día.</li>
+- Continuar desarrollando la perseverancia y constancia para cumplir con los retos que surgen día con día.
