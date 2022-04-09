@@ -21,6 +21,17 @@ Para mí las características principales con las que debe contar un profesional
     </item>
     
     <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://paulinaom.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulinaom.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola!
+A lo largo de las semanas que llevo en mi aventura Launch X, he tenido la oportunidad de contar con Mission Commanders excelentes que se han mostrado accesibles y pacientes para apoyarnos en este proceso de aprendizaje.
+  En la primera semana de onboarding, las katas de Python propuestas por la MC Fernanda Ochoa me permitieron acercarme aún más a este lenguaje. Las katas estuvieron siempre muy bien explicadas.</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://paulinaom.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
