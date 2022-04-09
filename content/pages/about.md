@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> First solve the problem. Then, write the code. 
+> 
+> – John Johnson
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Mi nombre es **Paulina Otero**. 
+Llegué al mundo de la tecnología casi por casualidad, sin embargo, mi primer "Hola Mundo" me motivó a continuar aprendiendo sobre programación. Mi gusto por el código me llevó a estudiar la carrera de sistemas, hoy en día soy Ingeniero en Sistemas Computacionales. 
 
+Me gustan los animales, principalmente los hámsters. Disfruto leer, escuchar música y jugar futbol.
